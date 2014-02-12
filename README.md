@@ -3,7 +3,7 @@ AMS-Verify
 
 ### People
 
-  [Dogan Ulus](http://doganulus.com), [Alper Sen](http://www.cmpe.boun.edu.tr/~sen/), [Faik Baskaya](http://esaki.ee.boun.edu.tr/~baskaya/) (Bogazici University)
+  [Dogan Ulus](http://doganulus.com), [Alper Sen](http://www.cmpe.boun.edu.tr/~sen/), [Faik Baskaya](http://esaki.ee.boun.edu.tr/~baskaya/) (Bogazici University, Istanbul)
 
 ### Summary
 
