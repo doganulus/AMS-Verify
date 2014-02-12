@@ -3,11 +3,9 @@ AMS-Verify
 
 ### People
 
-Developer: Dogan Ulus
+  [Dogan Ulus](http://doganulus.com), [Alper Sen](http://www.cmpe.boun.edu.tr/~sen/), [Faik Baskaya](http://esaki.ee.boun.edu.tr/~baskaya/) (Bogazici University)
 
-Contributors: Alper Sen, Faik Baskaya
-
-### Abstract
+### Summary
 
 AMS-Verify is an analog and mixed-signal (AMS) verification framework inspired from unit testing methodology in software verification. AMS-Verify framework provides common routines and analyses which extensively used in AMS verification. The structure of AMS-Verify framework is similar to unittest module of standard Python library, which has a rich heritage as part of the xUnit family of testing libraries.
 
