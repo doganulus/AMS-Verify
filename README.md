@@ -2,7 +2,9 @@ AMS-Verify
 ==========
 
 ### People
+
 Developer: Dogan Ulus
+
 Contributors: Alper Sen, Faik Baskaya
 
 ### Abstract
